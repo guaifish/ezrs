@@ -1,5 +1,6 @@
 pub use chrono::{self, prelude::*};
 pub use counter::{self, Counter};
+pub use derive_more::*;
 pub use lazy_static::*;
 pub use maplit::{self, hashmap, hashset};
 pub use rand::{self, random};
